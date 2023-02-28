@@ -1,4 +1,4 @@
-# LargeLanguageModels
+# OpenAI
 Exploring LLMs available in the Market
 
 Models Tested so far:
